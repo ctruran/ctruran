@@ -1,0 +1,75 @@
+<!DOCTYPE html />
+<html>
+<head>
+    <meta charset=“UTF-8” />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="pics/website.png" type="image/x-icon" />
+    <title>Colin Truran</title>
+</head>
+
+<body>
+    <div class="nav-bar">
+        <div class="float: left;">
+
+            <div style="float: right;">
+                <a href="https://www.linkedin.com/in/colin-truran-a9337021a/" title=><img src="pics/linkedin.svg" /></a>
+                <a href="https://www.instagram.com/ctruran12" title=><img src="pics/instagram.svg" /></a>
+                <a href="mailto:colinltruran@gmail.com" title=><img src="pics/gmail.svg" /></a>
+            </div>
+        </div>
+    </div>
+    <p>&nbsp;</p>
+    <div class = "my stuff">
+    </div>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
+    <p class="name"><span class="highlight-blue">Colin Truran</span></p>
+    <p class="intro"><i>Hi!</i> I'm Colin Truran. I am Data Science major at Mercyhurst University. I enjoy learning all about 
+        Data Science and Computer Science related topics. I also enjoy skiing, playing the piano, and playing soccer. 
+      <br />Feel free to email me at <span
+            class="thin-highlight-white">colinltruran <img class="icon" src="pics/atsymbol.svg" /> gmail <img
+                class="dot-icon" src="pics/dot.svg" />com</span> or reach out on the social media platforms linked above! </p>
+    <p>
+    
+    <div id ="Work Experience">
+        <div class="margin">
+               <h2 class="section-title"><span class="highlight-white">Work Experience</span><img class="title-icon"
+                src="pics/work.png" /></h2>
+                <p class="proj-title"><b>Nemacolin Woodlands Resort Peak Pool Attendant</b><img class="work" 
+                    src="pics/pool.png" /></p>
+                    <p style="float: right; font-size: 12px;">&nbsp;June 2023&#8212;August 2023</p>
+                    <p class="proj-text">Did various jobs from food running, managing the towel room, hosting, and bussing for the Peak at Nemacolin Woodlands Resort.</p>
+    
+ <div id ="Volunteer Work">
+          <h2 class="section-title"><span class="highlight-white">Volunteer Work</span><img class="title-icon"
+          src="pics/volunteer.png" /></h2>
+          <p class="proj-title"><b>Faith Assembly of God Uniontown</b><img class="work" 
+                    src="pics/volunteer.png" /></p>
+                   <p style="float: right; font-size: 12px;">&nbsp;January 2019&#8212;May 2022</p>
+                  <p class="proj-text">I participated in volunteer work to interact with any and all people in the youth group and church. This could be anything from a simple conversation to encouraging them to join certain leadership groups. I would assist in coordinating specific projects for the upcoming services.
+<div id ="Education">
+          <h2 class="section-title"><span class="highlight-white">Education</span><img class="title-icon"
+             src="pics/books.png" /></h2>
+         <p class="proj-title"><b>Geibel Catholic Jr. Sr. Highschool</b><img class="work" 
+                src="pics/graduation.png" /></p>
+                    <p style="float: right; font-size: 12px;">&nbsp;August 2019&#8212;May 2022</p>
+                    <p class="proj-text">A member of Junior National Honor Society, National Honor Society, Penn State 4.0 Club, Senior Class Vice-President,
+                        Lead Male Role in Fall and Spring Musicals, and was the youngest graduate in my Highschool's history; graduating at 16 years old.  
+        <p class="University1"><b>Duquesne University</b><img class="school"
+                src="pics/graduation.png"/><p>
+                    <p style="float: right font-size: 12px:">&nbsp;August 2022 &#8212;May 2023</p>
+                    <p class="proj-text">Majored in Biology for one year</p>
+      <p class="University1"><b>Mercyhurst University</b><img class="school"
+                src="pics/graduation.png"/><p>
+                    <p style="float: right font-size: 12px:">&nbsp;August 2023 &#8212;Present</p>
+                    <p class="proj-text">Majoring in Data Science and currently hold a 4.0 as of October 5, 2023 </p>
+        
+            
+
+        <p class="copyright">Copyright © 2023 Colin Truran. All rights reserved.</p>
+    </div>
+</body>
+
+</html>
